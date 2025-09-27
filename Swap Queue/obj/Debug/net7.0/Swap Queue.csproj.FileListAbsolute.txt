@@ -1,0 +1,15 @@
+D:\Programs Files\Data Structure\Swap Queue\bin\Debug\net7.0\Swap Queue.exe
+D:\Programs Files\Data Structure\Swap Queue\bin\Debug\net7.0\Swap Queue.deps.json
+D:\Programs Files\Data Structure\Swap Queue\bin\Debug\net7.0\Swap Queue.runtimeconfig.json
+D:\Programs Files\Data Structure\Swap Queue\bin\Debug\net7.0\Swap Queue.dll
+D:\Programs Files\Data Structure\Swap Queue\bin\Debug\net7.0\Swap Queue.pdb
+D:\Programs Files\Data Structure\Swap Queue\obj\Debug\net7.0\Swap Queue.csproj.AssemblyReference.cache
+D:\Programs Files\Data Structure\Swap Queue\obj\Debug\net7.0\Swap Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Data Structure\Swap Queue\obj\Debug\net7.0\Swap Queue.AssemblyInfoInputs.cache
+D:\Programs Files\Data Structure\Swap Queue\obj\Debug\net7.0\Swap Queue.AssemblyInfo.cs
+D:\Programs Files\Data Structure\Swap Queue\obj\Debug\net7.0\Swap Queue.csproj.CoreCompileInputs.cache
+D:\Programs Files\Data Structure\Swap Queue\obj\Debug\net7.0\Swap Queue.dll
+D:\Programs Files\Data Structure\Swap Queue\obj\Debug\net7.0\refint\Swap Queue.dll
+D:\Programs Files\Data Structure\Swap Queue\obj\Debug\net7.0\Swap Queue.pdb
+D:\Programs Files\Data Structure\Swap Queue\obj\Debug\net7.0\Swap Queue.genruntimeconfig.cache
+D:\Programs Files\Data Structure\Swap Queue\obj\Debug\net7.0\ref\Swap Queue.dll

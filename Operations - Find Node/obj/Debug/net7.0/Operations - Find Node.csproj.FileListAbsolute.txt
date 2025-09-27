@@ -1,0 +1,15 @@
+D:\Programs Files\Data Structure\Operations - Find Node\bin\Debug\net7.0\Operations - Find Node.exe
+D:\Programs Files\Data Structure\Operations - Find Node\bin\Debug\net7.0\Operations - Find Node.deps.json
+D:\Programs Files\Data Structure\Operations - Find Node\bin\Debug\net7.0\Operations - Find Node.runtimeconfig.json
+D:\Programs Files\Data Structure\Operations - Find Node\bin\Debug\net7.0\Operations - Find Node.dll
+D:\Programs Files\Data Structure\Operations - Find Node\bin\Debug\net7.0\Operations - Find Node.pdb
+D:\Programs Files\Data Structure\Operations - Find Node\obj\Debug\net7.0\Operations - Find Node.csproj.AssemblyReference.cache
+D:\Programs Files\Data Structure\Operations - Find Node\obj\Debug\net7.0\Operations - Find Node.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Data Structure\Operations - Find Node\obj\Debug\net7.0\Operations - Find Node.AssemblyInfoInputs.cache
+D:\Programs Files\Data Structure\Operations - Find Node\obj\Debug\net7.0\Operations - Find Node.AssemblyInfo.cs
+D:\Programs Files\Data Structure\Operations - Find Node\obj\Debug\net7.0\Operations - Find Node.csproj.CoreCompileInputs.cache
+D:\Programs Files\Data Structure\Operations - Find Node\obj\Debug\net7.0\Operations - Find Node.dll
+D:\Programs Files\Data Structure\Operations - Find Node\obj\Debug\net7.0\refint\Operations - Find Node.dll
+D:\Programs Files\Data Structure\Operations - Find Node\obj\Debug\net7.0\Operations - Find Node.pdb
+D:\Programs Files\Data Structure\Operations - Find Node\obj\Debug\net7.0\Operations - Find Node.genruntimeconfig.cache
+D:\Programs Files\Data Structure\Operations - Find Node\obj\Debug\net7.0\ref\Operations - Find Node.dll

@@ -1,0 +1,15 @@
+D:\Programs Files\Data Structure\Operations - Insert At End\bin\Debug\net7.0\Operations - Insert At End.exe
+D:\Programs Files\Data Structure\Operations - Insert At End\bin\Debug\net7.0\Operations - Insert At End.deps.json
+D:\Programs Files\Data Structure\Operations - Insert At End\bin\Debug\net7.0\Operations - Insert At End.runtimeconfig.json
+D:\Programs Files\Data Structure\Operations - Insert At End\bin\Debug\net7.0\Operations - Insert At End.dll
+D:\Programs Files\Data Structure\Operations - Insert At End\bin\Debug\net7.0\Operations - Insert At End.pdb
+D:\Programs Files\Data Structure\Operations - Insert At End\obj\Debug\net7.0\Operations - Insert At End.csproj.AssemblyReference.cache
+D:\Programs Files\Data Structure\Operations - Insert At End\obj\Debug\net7.0\Operations - Insert At End.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Data Structure\Operations - Insert At End\obj\Debug\net7.0\Operations - Insert At End.AssemblyInfoInputs.cache
+D:\Programs Files\Data Structure\Operations - Insert At End\obj\Debug\net7.0\Operations - Insert At End.AssemblyInfo.cs
+D:\Programs Files\Data Structure\Operations - Insert At End\obj\Debug\net7.0\Operations - Insert At End.csproj.CoreCompileInputs.cache
+D:\Programs Files\Data Structure\Operations - Insert At End\obj\Debug\net7.0\Operations - Insert At End.dll
+D:\Programs Files\Data Structure\Operations - Insert At End\obj\Debug\net7.0\refint\Operations - Insert At End.dll
+D:\Programs Files\Data Structure\Operations - Insert At End\obj\Debug\net7.0\Operations - Insert At End.pdb
+D:\Programs Files\Data Structure\Operations - Insert At End\obj\Debug\net7.0\Operations - Insert At End.genruntimeconfig.cache
+D:\Programs Files\Data Structure\Operations - Insert At End\obj\Debug\net7.0\ref\Operations - Insert At End.dll

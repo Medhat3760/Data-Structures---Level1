@@ -1,0 +1,18 @@
+D:\Programs Files\Data Structure\Stack Swap\bin\Debug\net7.0\Stack Swap.exe
+D:\Programs Files\Data Structure\Stack Swap\bin\Debug\net7.0\Stack Swap.deps.json
+D:\Programs Files\Data Structure\Stack Swap\bin\Debug\net7.0\Stack Swap.runtimeconfig.json
+D:\Programs Files\Data Structure\Stack Swap\bin\Debug\net7.0\Stack Swap.dll
+D:\Programs Files\Data Structure\Stack Swap\bin\Debug\net7.0\Stack Swap.pdb
+D:\Programs Files\Data Structure\Stack Swap\bin\Debug\net7.0\MyLib.dll
+D:\Programs Files\Data Structure\Stack Swap\bin\Debug\net7.0\MyLib.pdb
+D:\Programs Files\Data Structure\Stack Swap\obj\Debug\net7.0\Stack Swap.csproj.AssemblyReference.cache
+D:\Programs Files\Data Structure\Stack Swap\obj\Debug\net7.0\Stack Swap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Data Structure\Stack Swap\obj\Debug\net7.0\Stack Swap.AssemblyInfoInputs.cache
+D:\Programs Files\Data Structure\Stack Swap\obj\Debug\net7.0\Stack Swap.AssemblyInfo.cs
+D:\Programs Files\Data Structure\Stack Swap\obj\Debug\net7.0\Stack Swap.csproj.CoreCompileInputs.cache
+D:\Programs Files\Data Structure\Stack Swap\obj\Debug\net7.0\Stack Swap.csproj.CopyComplete
+D:\Programs Files\Data Structure\Stack Swap\obj\Debug\net7.0\Stack Swap.dll
+D:\Programs Files\Data Structure\Stack Swap\obj\Debug\net7.0\refint\Stack Swap.dll
+D:\Programs Files\Data Structure\Stack Swap\obj\Debug\net7.0\Stack Swap.pdb
+D:\Programs Files\Data Structure\Stack Swap\obj\Debug\net7.0\Stack Swap.genruntimeconfig.cache
+D:\Programs Files\Data Structure\Stack Swap\obj\Debug\net7.0\ref\Stack Swap.dll

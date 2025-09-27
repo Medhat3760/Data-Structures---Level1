@@ -1,0 +1,15 @@
+D:\Programs Files\Data Structure\STL Queue\bin\Debug\net7.0\STL Queue.exe
+D:\Programs Files\Data Structure\STL Queue\bin\Debug\net7.0\STL Queue.deps.json
+D:\Programs Files\Data Structure\STL Queue\bin\Debug\net7.0\STL Queue.runtimeconfig.json
+D:\Programs Files\Data Structure\STL Queue\bin\Debug\net7.0\STL Queue.dll
+D:\Programs Files\Data Structure\STL Queue\bin\Debug\net7.0\STL Queue.pdb
+D:\Programs Files\Data Structure\STL Queue\obj\Debug\net7.0\STL Queue.csproj.AssemblyReference.cache
+D:\Programs Files\Data Structure\STL Queue\obj\Debug\net7.0\STL Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Data Structure\STL Queue\obj\Debug\net7.0\STL Queue.AssemblyInfoInputs.cache
+D:\Programs Files\Data Structure\STL Queue\obj\Debug\net7.0\STL Queue.AssemblyInfo.cs
+D:\Programs Files\Data Structure\STL Queue\obj\Debug\net7.0\STL Queue.csproj.CoreCompileInputs.cache
+D:\Programs Files\Data Structure\STL Queue\obj\Debug\net7.0\STL Queue.dll
+D:\Programs Files\Data Structure\STL Queue\obj\Debug\net7.0\refint\STL Queue.dll
+D:\Programs Files\Data Structure\STL Queue\obj\Debug\net7.0\STL Queue.pdb
+D:\Programs Files\Data Structure\STL Queue\obj\Debug\net7.0\STL Queue.genruntimeconfig.cache
+D:\Programs Files\Data Structure\STL Queue\obj\Debug\net7.0\ref\STL Queue.dll

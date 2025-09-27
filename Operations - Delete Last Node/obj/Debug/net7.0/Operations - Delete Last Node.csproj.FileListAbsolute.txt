@@ -1,0 +1,15 @@
+D:\Programs Files\Data Structure\Operations - Delete Last Node\obj\Debug\net7.0\Operations - Delete Last Node.csproj.AssemblyReference.cache
+D:\Programs Files\Data Structure\Operations - Delete Last Node\obj\Debug\net7.0\Operations - Delete Last Node.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Data Structure\Operations - Delete Last Node\obj\Debug\net7.0\Operations - Delete Last Node.AssemblyInfoInputs.cache
+D:\Programs Files\Data Structure\Operations - Delete Last Node\obj\Debug\net7.0\Operations - Delete Last Node.AssemblyInfo.cs
+D:\Programs Files\Data Structure\Operations - Delete Last Node\obj\Debug\net7.0\Operations - Delete Last Node.csproj.CoreCompileInputs.cache
+D:\Programs Files\Data Structure\Operations - Delete Last Node\bin\Debug\net7.0\Operations - Delete Last Node.exe
+D:\Programs Files\Data Structure\Operations - Delete Last Node\bin\Debug\net7.0\Operations - Delete Last Node.deps.json
+D:\Programs Files\Data Structure\Operations - Delete Last Node\bin\Debug\net7.0\Operations - Delete Last Node.runtimeconfig.json
+D:\Programs Files\Data Structure\Operations - Delete Last Node\bin\Debug\net7.0\Operations - Delete Last Node.dll
+D:\Programs Files\Data Structure\Operations - Delete Last Node\bin\Debug\net7.0\Operations - Delete Last Node.pdb
+D:\Programs Files\Data Structure\Operations - Delete Last Node\obj\Debug\net7.0\Operations - Delete Last Node.dll
+D:\Programs Files\Data Structure\Operations - Delete Last Node\obj\Debug\net7.0\refint\Operations - Delete Last Node.dll
+D:\Programs Files\Data Structure\Operations - Delete Last Node\obj\Debug\net7.0\Operations - Delete Last Node.pdb
+D:\Programs Files\Data Structure\Operations - Delete Last Node\obj\Debug\net7.0\Operations - Delete Last Node.genruntimeconfig.cache
+D:\Programs Files\Data Structure\Operations - Delete Last Node\obj\Debug\net7.0\ref\Operations - Delete Last Node.dll

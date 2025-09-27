@@ -1,0 +1,15 @@
+D:\Programs Files\Data Structure\STL Stack\bin\Debug\net7.0\STL Stack.exe
+D:\Programs Files\Data Structure\STL Stack\bin\Debug\net7.0\STL Stack.deps.json
+D:\Programs Files\Data Structure\STL Stack\bin\Debug\net7.0\STL Stack.runtimeconfig.json
+D:\Programs Files\Data Structure\STL Stack\bin\Debug\net7.0\STL Stack.dll
+D:\Programs Files\Data Structure\STL Stack\bin\Debug\net7.0\STL Stack.pdb
+D:\Programs Files\Data Structure\STL Stack\obj\Debug\net7.0\STL Stack.csproj.AssemblyReference.cache
+D:\Programs Files\Data Structure\STL Stack\obj\Debug\net7.0\STL Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Data Structure\STL Stack\obj\Debug\net7.0\STL Stack.AssemblyInfoInputs.cache
+D:\Programs Files\Data Structure\STL Stack\obj\Debug\net7.0\STL Stack.AssemblyInfo.cs
+D:\Programs Files\Data Structure\STL Stack\obj\Debug\net7.0\STL Stack.csproj.CoreCompileInputs.cache
+D:\Programs Files\Data Structure\STL Stack\obj\Debug\net7.0\STL Stack.dll
+D:\Programs Files\Data Structure\STL Stack\obj\Debug\net7.0\refint\STL Stack.dll
+D:\Programs Files\Data Structure\STL Stack\obj\Debug\net7.0\STL Stack.pdb
+D:\Programs Files\Data Structure\STL Stack\obj\Debug\net7.0\STL Stack.genruntimeconfig.cache
+D:\Programs Files\Data Structure\STL Stack\obj\Debug\net7.0\ref\STL Stack.dll

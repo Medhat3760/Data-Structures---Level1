@@ -1,0 +1,15 @@
+D:\Programs Files\Data Structure\Operations - Delete First Node\bin\Debug\net7.0\Operations - Delete First Node.exe
+D:\Programs Files\Data Structure\Operations - Delete First Node\bin\Debug\net7.0\Operations - Delete First Node.deps.json
+D:\Programs Files\Data Structure\Operations - Delete First Node\bin\Debug\net7.0\Operations - Delete First Node.runtimeconfig.json
+D:\Programs Files\Data Structure\Operations - Delete First Node\bin\Debug\net7.0\Operations - Delete First Node.dll
+D:\Programs Files\Data Structure\Operations - Delete First Node\bin\Debug\net7.0\Operations - Delete First Node.pdb
+D:\Programs Files\Data Structure\Operations - Delete First Node\obj\Debug\net7.0\Operations - Delete First Node.csproj.AssemblyReference.cache
+D:\Programs Files\Data Structure\Operations - Delete First Node\obj\Debug\net7.0\Operations - Delete First Node.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Data Structure\Operations - Delete First Node\obj\Debug\net7.0\Operations - Delete First Node.AssemblyInfoInputs.cache
+D:\Programs Files\Data Structure\Operations - Delete First Node\obj\Debug\net7.0\Operations - Delete First Node.AssemblyInfo.cs
+D:\Programs Files\Data Structure\Operations - Delete First Node\obj\Debug\net7.0\Operations - Delete First Node.csproj.CoreCompileInputs.cache
+D:\Programs Files\Data Structure\Operations - Delete First Node\obj\Debug\net7.0\Operations - Delete First Node.dll
+D:\Programs Files\Data Structure\Operations - Delete First Node\obj\Debug\net7.0\refint\Operations - Delete First Node.dll
+D:\Programs Files\Data Structure\Operations - Delete First Node\obj\Debug\net7.0\Operations - Delete First Node.pdb
+D:\Programs Files\Data Structure\Operations - Delete First Node\obj\Debug\net7.0\Operations - Delete First Node.genruntimeconfig.cache
+D:\Programs Files\Data Structure\Operations - Delete First Node\obj\Debug\net7.0\ref\Operations - Delete First Node.dll

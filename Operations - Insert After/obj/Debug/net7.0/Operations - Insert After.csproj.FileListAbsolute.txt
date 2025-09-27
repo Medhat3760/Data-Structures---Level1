@@ -1,0 +1,15 @@
+D:\Programs Files\Data Structure\Operations - Insert After\bin\Debug\net7.0\Operations - Insert After.exe
+D:\Programs Files\Data Structure\Operations - Insert After\bin\Debug\net7.0\Operations - Insert After.deps.json
+D:\Programs Files\Data Structure\Operations - Insert After\bin\Debug\net7.0\Operations - Insert After.runtimeconfig.json
+D:\Programs Files\Data Structure\Operations - Insert After\bin\Debug\net7.0\Operations - Insert After.dll
+D:\Programs Files\Data Structure\Operations - Insert After\bin\Debug\net7.0\Operations - Insert After.pdb
+D:\Programs Files\Data Structure\Operations - Insert After\obj\Debug\net7.0\Operations - Insert After.csproj.AssemblyReference.cache
+D:\Programs Files\Data Structure\Operations - Insert After\obj\Debug\net7.0\Operations - Insert After.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Data Structure\Operations - Insert After\obj\Debug\net7.0\Operations - Insert After.AssemblyInfoInputs.cache
+D:\Programs Files\Data Structure\Operations - Insert After\obj\Debug\net7.0\Operations - Insert After.AssemblyInfo.cs
+D:\Programs Files\Data Structure\Operations - Insert After\obj\Debug\net7.0\Operations - Insert After.csproj.CoreCompileInputs.cache
+D:\Programs Files\Data Structure\Operations - Insert After\obj\Debug\net7.0\Operations - Insert After.dll
+D:\Programs Files\Data Structure\Operations - Insert After\obj\Debug\net7.0\refint\Operations - Insert After.dll
+D:\Programs Files\Data Structure\Operations - Insert After\obj\Debug\net7.0\Operations - Insert After.pdb
+D:\Programs Files\Data Structure\Operations - Insert After\obj\Debug\net7.0\Operations - Insert After.genruntimeconfig.cache
+D:\Programs Files\Data Structure\Operations - Insert After\obj\Debug\net7.0\ref\Operations - Insert After.dll
