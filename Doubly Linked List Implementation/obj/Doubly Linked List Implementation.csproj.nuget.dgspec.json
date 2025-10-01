@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programs Files\\Github Repos\\Data Structure\\Singly Linked List Implementation\\Singly Linked List Implementation.csproj": {}
+    "D:\\Programs Files\\Github Repos\\Data Structure\\Doubly Linked List Implementation\\Doubly Linked List Implementation.csproj": {}
   },
   "projects": {
-    "D:\\Programs Files\\Github Repos\\Data Structure\\Singly Linked List Implementation\\Singly Linked List Implementation.csproj": {
+    "D:\\Programs Files\\Github Repos\\Data Structure\\Doubly Linked List Implementation\\Doubly Linked List Implementation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programs Files\\Github Repos\\Data Structure\\Singly Linked List Implementation\\Singly Linked List Implementation.csproj",
-        "projectName": "Singly Linked List Implementation",
-        "projectPath": "D:\\Programs Files\\Github Repos\\Data Structure\\Singly Linked List Implementation\\Singly Linked List Implementation.csproj",
+        "projectUniqueName": "D:\\Programs Files\\Github Repos\\Data Structure\\Doubly Linked List Implementation\\Doubly Linked List Implementation.csproj",
+        "projectName": "Doubly Linked List Implementation",
+        "projectPath": "D:\\Programs Files\\Github Repos\\Data Structure\\Doubly Linked List Implementation\\Doubly Linked List Implementation.csproj",
         "packagesPath": "C:\\Users\\Sigma\\.nuget\\packages\\",
-        "outputPath": "D:\\Programs Files\\Github Repos\\Data Structure\\Singly Linked List Implementation\\obj\\",
+        "outputPath": "D:\\Programs Files\\Github Repos\\Data Structure\\Doubly Linked List Implementation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sigma\\AppData\\Roaming\\NuGet\\NuGet.Config",

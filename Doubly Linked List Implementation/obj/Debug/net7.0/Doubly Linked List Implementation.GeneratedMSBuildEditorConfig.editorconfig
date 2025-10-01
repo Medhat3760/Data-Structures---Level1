@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Singly_Linked_List_Implementation
-build_property.ProjectDir = D:\Programs Files\Github Repos\Data Structure\Singly Linked List Implementation\
+build_property.RootNamespace = Doubly_Linked_List_Implementation
+build_property.ProjectDir = D:\Programs Files\Github Repos\Data Structure\Doubly Linked List Implementation\
