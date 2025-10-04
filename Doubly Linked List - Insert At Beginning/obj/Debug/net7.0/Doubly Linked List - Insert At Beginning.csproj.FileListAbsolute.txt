@@ -1,0 +1,15 @@
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert At Beginning\bin\Debug\net7.0\Doubly Linked List - Insert At Beginning.exe
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert At Beginning\bin\Debug\net7.0\Doubly Linked List - Insert At Beginning.deps.json
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert At Beginning\bin\Debug\net7.0\Doubly Linked List - Insert At Beginning.runtimeconfig.json
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert At Beginning\bin\Debug\net7.0\Doubly Linked List - Insert At Beginning.dll
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert At Beginning\bin\Debug\net7.0\Doubly Linked List - Insert At Beginning.pdb
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert At Beginning\obj\Debug\net7.0\Doubly Linked List - Insert At Beginning.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert At Beginning\obj\Debug\net7.0\Doubly Linked List - Insert At Beginning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert At Beginning\obj\Debug\net7.0\Doubly Linked List - Insert At Beginning.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert At Beginning\obj\Debug\net7.0\Doubly Linked List - Insert At Beginning.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert At Beginning\obj\Debug\net7.0\Doubly Linked List - Insert At Beginning.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert At Beginning\obj\Debug\net7.0\Doubly Linked List - Insert At Beginning.dll
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert At Beginning\obj\Debug\net7.0\refint\Doubly Linked List - Insert At Beginning.dll
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert At Beginning\obj\Debug\net7.0\Doubly Linked List - Insert At Beginning.pdb
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert At Beginning\obj\Debug\net7.0\Doubly Linked List - Insert At Beginning.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert At Beginning\obj\Debug\net7.0\ref\Doubly Linked List - Insert At Beginning.dll
