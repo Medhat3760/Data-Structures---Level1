@@ -1,0 +1,15 @@
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Find Node\bin\Debug\net7.0\Doubly Linked List - Find Node.exe
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Find Node\bin\Debug\net7.0\Doubly Linked List - Find Node.deps.json
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Find Node\bin\Debug\net7.0\Doubly Linked List - Find Node.runtimeconfig.json
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Find Node\bin\Debug\net7.0\Doubly Linked List - Find Node.dll
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Find Node\bin\Debug\net7.0\Doubly Linked List - Find Node.pdb
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Find Node\obj\Debug\net7.0\Doubly Linked List - Find Node.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Find Node\obj\Debug\net7.0\Doubly Linked List - Find Node.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Find Node\obj\Debug\net7.0\Doubly Linked List - Find Node.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Find Node\obj\Debug\net7.0\Doubly Linked List - Find Node.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Find Node\obj\Debug\net7.0\Doubly Linked List - Find Node.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Find Node\obj\Debug\net7.0\Doubly Linked List - Find Node.dll
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Find Node\obj\Debug\net7.0\refint\Doubly Linked List - Find Node.dll
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Find Node\obj\Debug\net7.0\Doubly Linked List - Find Node.pdb
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Find Node\obj\Debug\net7.0\Doubly Linked List - Find Node.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Find Node\obj\Debug\net7.0\ref\Doubly Linked List - Find Node.dll
