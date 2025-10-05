@@ -1,0 +1,15 @@
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert After\bin\Debug\net7.0\Doubly Linked List - Insert After.exe
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert After\bin\Debug\net7.0\Doubly Linked List - Insert After.deps.json
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert After\bin\Debug\net7.0\Doubly Linked List - Insert After.runtimeconfig.json
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert After\bin\Debug\net7.0\Doubly Linked List - Insert After.dll
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert After\bin\Debug\net7.0\Doubly Linked List - Insert After.pdb
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert After\obj\Debug\net7.0\Doubly Linked List - Insert After.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert After\obj\Debug\net7.0\Doubly Linked List - Insert After.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert After\obj\Debug\net7.0\Doubly Linked List - Insert After.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert After\obj\Debug\net7.0\Doubly Linked List - Insert After.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert After\obj\Debug\net7.0\Doubly Linked List - Insert After.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert After\obj\Debug\net7.0\Doubly Linked List - Insert After.dll
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert After\obj\Debug\net7.0\refint\Doubly Linked List - Insert After.dll
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert After\obj\Debug\net7.0\Doubly Linked List - Insert After.pdb
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert After\obj\Debug\net7.0\Doubly Linked List - Insert After.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Insert After\obj\Debug\net7.0\ref\Doubly Linked List - Insert After.dll
