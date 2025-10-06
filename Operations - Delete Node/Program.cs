@@ -72,6 +72,8 @@
 
             prev.nextNode = current.nextNode;
 
+            current = null;
+
         }
 
         static void PrintList(node head)

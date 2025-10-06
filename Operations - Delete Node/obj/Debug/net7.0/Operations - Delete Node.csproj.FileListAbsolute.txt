@@ -13,3 +13,18 @@ D:\Programs Files\Data Structure\Operations - Delete Node\obj\Debug\net7.0\refin
 D:\Programs Files\Data Structure\Operations - Delete Node\obj\Debug\net7.0\Operations - Delete Node.pdb
 D:\Programs Files\Data Structure\Operations - Delete Node\obj\Debug\net7.0\Operations - Delete Node.genruntimeconfig.cache
 D:\Programs Files\Data Structure\Operations - Delete Node\obj\Debug\net7.0\ref\Operations - Delete Node.dll
+D:\Programs Files\Github Repos\Data Structure\Operations - Delete Node\bin\Debug\net7.0\Operations - Delete Node.exe
+D:\Programs Files\Github Repos\Data Structure\Operations - Delete Node\bin\Debug\net7.0\Operations - Delete Node.deps.json
+D:\Programs Files\Github Repos\Data Structure\Operations - Delete Node\bin\Debug\net7.0\Operations - Delete Node.runtimeconfig.json
+D:\Programs Files\Github Repos\Data Structure\Operations - Delete Node\bin\Debug\net7.0\Operations - Delete Node.dll
+D:\Programs Files\Github Repos\Data Structure\Operations - Delete Node\bin\Debug\net7.0\Operations - Delete Node.pdb
+D:\Programs Files\Github Repos\Data Structure\Operations - Delete Node\obj\Debug\net7.0\Operations - Delete Node.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Data Structure\Operations - Delete Node\obj\Debug\net7.0\Operations - Delete Node.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Data Structure\Operations - Delete Node\obj\Debug\net7.0\Operations - Delete Node.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Data Structure\Operations - Delete Node\obj\Debug\net7.0\Operations - Delete Node.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Data Structure\Operations - Delete Node\obj\Debug\net7.0\Operations - Delete Node.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Data Structure\Operations - Delete Node\obj\Debug\net7.0\Operations - Delete Node.dll
+D:\Programs Files\Github Repos\Data Structure\Operations - Delete Node\obj\Debug\net7.0\refint\Operations - Delete Node.dll
+D:\Programs Files\Github Repos\Data Structure\Operations - Delete Node\obj\Debug\net7.0\Operations - Delete Node.pdb
+D:\Programs Files\Github Repos\Data Structure\Operations - Delete Node\obj\Debug\net7.0\Operations - Delete Node.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Data Structure\Operations - Delete Node\obj\Debug\net7.0\ref\Operations - Delete Node.dll

@@ -51,7 +51,7 @@
             }
             else
             {
-                Console.Write("NULL");
+                Console.WriteLine("NULL");
             }
 
         }

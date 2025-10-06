@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programs Files\\Data Structure\\Operations - Delete First Node\\Operations - Delete First Node.csproj",
+      "projectUniqueName": "D:\\Programs Files\\Github Repos\\Data Structure\\Operations - Delete First Node\\Operations - Delete First Node.csproj",
       "projectName": "Operations - Delete First Node",
-      "projectPath": "D:\\Programs Files\\Data Structure\\Operations - Delete First Node\\Operations - Delete First Node.csproj",
+      "projectPath": "D:\\Programs Files\\Github Repos\\Data Structure\\Operations - Delete First Node\\Operations - Delete First Node.csproj",
       "packagesPath": "C:\\Users\\Sigma\\.nuget\\packages\\",
-      "outputPath": "D:\\Programs Files\\Data Structure\\Operations - Delete First Node\\obj\\",
+      "outputPath": "D:\\Programs Files\\Github Repos\\Data Structure\\Operations - Delete First Node\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sigma\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Node\bin\Debug\net7.0\Doubly Linked List - Delete Node.exe
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Node\bin\Debug\net7.0\Doubly Linked List - Delete Node.deps.json
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Node\bin\Debug\net7.0\Doubly Linked List - Delete Node.runtimeconfig.json
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Node\bin\Debug\net7.0\Doubly Linked List - Delete Node.dll
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Node\bin\Debug\net7.0\Doubly Linked List - Delete Node.pdb
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Node\obj\Debug\net7.0\Doubly Linked List - Delete Node.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Node\obj\Debug\net7.0\Doubly Linked List - Delete Node.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Node\obj\Debug\net7.0\Doubly Linked List - Delete Node.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Node\obj\Debug\net7.0\Doubly Linked List - Delete Node.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Node\obj\Debug\net7.0\Doubly Linked List - Delete Node.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Node\obj\Debug\net7.0\Doubly Linked List - Delete Node.dll
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Node\obj\Debug\net7.0\refint\Doubly Linked List - Delete Node.dll
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Node\obj\Debug\net7.0\Doubly Linked List - Delete Node.pdb
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Node\obj\Debug\net7.0\Doubly Linked List - Delete Node.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Node\obj\Debug\net7.0\ref\Doubly Linked List - Delete Node.dll
