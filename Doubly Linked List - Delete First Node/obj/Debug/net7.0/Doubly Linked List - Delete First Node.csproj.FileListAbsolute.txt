@@ -1,0 +1,15 @@
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete First Node\bin\Debug\net7.0\Doubly Linked List - Delete First Node.exe
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete First Node\bin\Debug\net7.0\Doubly Linked List - Delete First Node.deps.json
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete First Node\bin\Debug\net7.0\Doubly Linked List - Delete First Node.runtimeconfig.json
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete First Node\bin\Debug\net7.0\Doubly Linked List - Delete First Node.dll
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete First Node\bin\Debug\net7.0\Doubly Linked List - Delete First Node.pdb
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete First Node\obj\Debug\net7.0\Doubly Linked List - Delete First Node.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete First Node\obj\Debug\net7.0\Doubly Linked List - Delete First Node.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete First Node\obj\Debug\net7.0\Doubly Linked List - Delete First Node.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete First Node\obj\Debug\net7.0\Doubly Linked List - Delete First Node.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete First Node\obj\Debug\net7.0\Doubly Linked List - Delete First Node.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete First Node\obj\Debug\net7.0\Doubly Linked List - Delete First Node.dll
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete First Node\obj\Debug\net7.0\refint\Doubly Linked List - Delete First Node.dll
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete First Node\obj\Debug\net7.0\Doubly Linked List - Delete First Node.pdb
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete First Node\obj\Debug\net7.0\Doubly Linked List - Delete First Node.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete First Node\obj\Debug\net7.0\ref\Doubly Linked List - Delete First Node.dll
