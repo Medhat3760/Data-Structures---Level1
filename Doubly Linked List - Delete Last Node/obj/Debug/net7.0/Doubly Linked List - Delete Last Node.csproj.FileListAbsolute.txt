@@ -1,0 +1,15 @@
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Last Node\bin\Debug\net7.0\Doubly Linked List - Delete Last Node.exe
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Last Node\bin\Debug\net7.0\Doubly Linked List - Delete Last Node.deps.json
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Last Node\bin\Debug\net7.0\Doubly Linked List - Delete Last Node.runtimeconfig.json
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Last Node\bin\Debug\net7.0\Doubly Linked List - Delete Last Node.dll
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Last Node\bin\Debug\net7.0\Doubly Linked List - Delete Last Node.pdb
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Last Node\obj\Debug\net7.0\Doubly Linked List - Delete Last Node.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Last Node\obj\Debug\net7.0\Doubly Linked List - Delete Last Node.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Last Node\obj\Debug\net7.0\Doubly Linked List - Delete Last Node.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Last Node\obj\Debug\net7.0\Doubly Linked List - Delete Last Node.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Last Node\obj\Debug\net7.0\Doubly Linked List - Delete Last Node.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Last Node\obj\Debug\net7.0\Doubly Linked List - Delete Last Node.dll
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Last Node\obj\Debug\net7.0\refint\Doubly Linked List - Delete Last Node.dll
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Last Node\obj\Debug\net7.0\Doubly Linked List - Delete Last Node.pdb
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Last Node\obj\Debug\net7.0\Doubly Linked List - Delete Last Node.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Data Structure\Doubly Linked List - Delete Last Node\obj\Debug\net7.0\ref\Doubly Linked List - Delete Last Node.dll
