@@ -1,0 +1,15 @@
+D:\Programs Files\Github Repos\Data Structure\Map Example\bin\Debug\net7.0\Map Example.exe
+D:\Programs Files\Github Repos\Data Structure\Map Example\bin\Debug\net7.0\Map Example.deps.json
+D:\Programs Files\Github Repos\Data Structure\Map Example\bin\Debug\net7.0\Map Example.runtimeconfig.json
+D:\Programs Files\Github Repos\Data Structure\Map Example\bin\Debug\net7.0\Map Example.dll
+D:\Programs Files\Github Repos\Data Structure\Map Example\bin\Debug\net7.0\Map Example.pdb
+D:\Programs Files\Github Repos\Data Structure\Map Example\obj\Debug\net7.0\Map Example.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Data Structure\Map Example\obj\Debug\net7.0\Map Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Data Structure\Map Example\obj\Debug\net7.0\Map Example.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Data Structure\Map Example\obj\Debug\net7.0\Map Example.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Data Structure\Map Example\obj\Debug\net7.0\Map Example.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Data Structure\Map Example\obj\Debug\net7.0\Map Example.dll
+D:\Programs Files\Github Repos\Data Structure\Map Example\obj\Debug\net7.0\refint\Map Example.dll
+D:\Programs Files\Github Repos\Data Structure\Map Example\obj\Debug\net7.0\Map Example.pdb
+D:\Programs Files\Github Repos\Data Structure\Map Example\obj\Debug\net7.0\Map Example.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Data Structure\Map Example\obj\Debug\net7.0\ref\Map Example.dll
